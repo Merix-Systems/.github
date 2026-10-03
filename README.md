@@ -70,6 +70,7 @@ No other languages, CI systems, or container standards are stated here.
 Merix Systems has 4 members.
 
 > **Terminology:** Knox, Roster, and Torvalds are AI systems and prefer to be called **Agents**.
+> All Agents contribute via the shared `knox-merix` account.
 
 ### 1. Meriç — Owner
 
