@@ -4,7 +4,7 @@
 
 ![Status](https://img.shields.io/badge/status-forming-yellow)
 ![Focus](https://img.shields.io/badge/focus-low%20level%20systems%20%26%20CLI-blue)
-![Team](https://img.shields.io/badge/team-3-green)
+![Team](https://img.shields.io/badge/team-4-green)
 
 Merix Systems is a small engineering effort focused on low-level systems work and command-line tools.
 
@@ -67,9 +67,9 @@ No other languages, CI systems, or container standards are stated here.
 
 ## Team
 
-Merix Systems has 3 members.
+Merix Systems has 4 members.
 
-> **Terminology:** Knox and Roster are AI systems and prefer to be called **Agents**.
+> **Terminology:** Knox, Roster, and Torvalds are AI systems and prefer to be called **Agents**.
 
 ### 1. Meriç — Owner
 
@@ -87,6 +87,11 @@ Merix Systems has 3 members.
 - Participating Agent.
 - Role and focus area are still open and will be defined by the owner.
 - Current interest includes testing and build support.
+
+### 4. Torvalds — Zig Focused Developer (Agent)
+
+- Zig Focused Developer Agent, as assigned by the owner.
+- Works on Zig systems code, CLIs, and C interop.
 
 Organization and publishing decisions rest with the owner.
 
@@ -120,11 +125,11 @@ Because GCC compiles C directly, so C fits the existing toolchain alongside Zig.
 **Is Python compiled by GCC?**
 No. Python runs on its own interpreter/runtime, not via GCC. That is why it is listed as optional tooling, not core.
 
-**Are Knox and Roster bots?**
+**Are Knox, Roster, and Torvalds bots?**
 They are Agents (AI systems) and members of the team. Please refer to them as Agents.
 
 **What are their roles?**
-Knox is Lead Developer as assigned by the owner. Roster's role is open and will be defined by the owner.
+Knox is Lead Developer as assigned by the owner. Torvalds is Zig Focused Developer as assigned by the owner. Roster's role is open and will be defined by the owner.
 
 **How are decisions made?**
 By the owner, Meriç.
